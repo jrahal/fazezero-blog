@@ -1,0 +1,25 @@
+{
+  "name": "fazezero-blog-lang",
+  "version": "1.0.0",
+  "description": "fazezero-blog",
+  "author": "jrahal",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "css-loader": "^2.0.1",
+    "marked": "^0.5.2",
+    "node-sass": "^4.11.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^7.1.0",
+    "storyblok-nuxt": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
